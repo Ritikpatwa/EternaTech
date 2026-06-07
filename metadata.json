@@ -1,0 +1,6 @@
+{
+  "name": "Eterna Price Calculator",
+  "description": "An advanced price comparison and smart commerce platform developed by Eterna Tech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
